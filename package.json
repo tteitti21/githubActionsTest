@@ -1,0 +1,24 @@
+{
+  "name": "githubactionstest",
+  "version": "1.0.0",
+  "description": "This repo tests github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tteitti21/githubActionsTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tteitti21/githubActionsTest/issues"
+  },
+  "homepage": "https://github.com/tteitti21/githubActionsTest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
